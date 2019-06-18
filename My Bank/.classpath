@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/classes" path="src">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/Downloads/Laptop/Fiverr order/New/itext/barcodes-7.1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/Laptop/Fiverr order/New/itext/barcodes-7.1.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/Laptop/Fiverr order/New/itext/barcodes-7.1.3-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/Laptop/Fiverr order/New/itext/font-asian-7.1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/Laptop/Fiverr order/New/itext/forms-7.1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/Laptop/Fiverr order/New/itext/forms-7.1.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/Laptop/Fiverr order/New/itext/forms-7.1.3-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/Laptop/Fiverr order/New/itext/hyph-7.1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/Laptop/Fiverr order/New/itext/io-7.1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/Laptop/Fiverr order/New/itext/io-7.1.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/Laptop/Fiverr order/New/itext/io-7.1.3-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/Laptop/Fiverr order/New/itext/kernel-7.1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/Laptop/Fiverr order/New/itext/kernel-7.1.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/Laptop/Fiverr order/New/itext/kernel-7.1.3-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/Laptop/Fiverr order/New/itext/layout-7.1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/Laptop/Fiverr order/New/itext/layout-7.1.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/Laptop/Fiverr order/New/itext/layout-7.1.3-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/Laptop/Fiverr order/New/itext/pdfa-7.1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/Laptop/Fiverr order/New/itext/pdfa-7.1.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/Laptop/Fiverr order/New/itext/pdfa-7.1.3-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/Laptop/Fiverr order/New/itext/pdftest-7.1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/Laptop/Fiverr order/New/itext/pdftest-7.1.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/Laptop/Fiverr order/New/itext/pdftest-7.1.3-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/Laptop/Fiverr order/New/itext/sign-7.1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/Laptop/Fiverr order/New/itext/sign-7.1.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/Laptop/Fiverr order/New/itext/sign-7.1.3-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/Laptop/Fiverr order/New/itext/styled-xml-parser-7.1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/Laptop/Fiverr order/New/itext/styled-xml-parser-7.1.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/Laptop/Fiverr order/New/itext/styled-xml-parser-7.1.3-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/Laptop/Fiverr order/New/itext/svg-7.1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/Laptop/Fiverr order/New/itext/svg-7.1.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/Laptop/Fiverr order/New/itext/svg-7.1.3-sources.jar"/>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/Downloads/Laptop/Fiverr order/New/itextpdf-5.1.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/Laptop/Fiverr order/New/Email java/activation.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/Laptop/Fiverr order/New/Email java/mail.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
